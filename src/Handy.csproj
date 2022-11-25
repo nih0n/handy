@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageDescription>TheHandy typed client.</PackageDescription>
+    <TargetFramework>net7.0</TargetFramework>
+    <PackageId>Handy.Net</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Fernando Omori</Authors>
+    <Company>Omori</Company>
+    <PackageTags>TheHandy;Sex Toys</PackageTags>
+    <RepositoryUrl>https://github.com/nih0n/handy</RepositoryUrl>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+</Project>
